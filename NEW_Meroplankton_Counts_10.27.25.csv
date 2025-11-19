@@ -1,0 +1,632 @@
+﻿SampleMethod,RecoveryDive,Sample.Volume.m3,Meters.Above.Bottom,SampleLocation,Time.Deployed.hrs.,Ash.depth..cm.,Site,Sample.ID,Larval.Type,Stage,Identification.Type,Taxonomic.Level ,Taxonomic.Group,Top.BLAST.Hit,Pairwise.Identity,BOLD.Collection.Code,Individuals.per.SampleID
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_030,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_031,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_032,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_033,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_034,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_035,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_036,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_037,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_038,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_039,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_040,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_041,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_042,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_044,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_045,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_046,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_047,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_048,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_049,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_050,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_051,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_052,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_053,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_054,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_055,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_056,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_057,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_058,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,13
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_059,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_060,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_061,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_062,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_063,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_064,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_065,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_066,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_067,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_068,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_069,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_070,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_071,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_072,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_073,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,60
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_074,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_075,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,15
+McLane,J21402,20,2 mab,Within vents,12,23-54,Kilo Moana,TN401_J21402_MC_076,Bivalve,Larval,intFXT/HCO2198,Family,Vesicomyidae,Kelliopsis elevata,86,TL,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0006,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0007,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0008,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0009,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0010,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0011,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0012,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0013,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,4
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0014,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0015,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0017,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0018,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0019,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0020,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0021,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0022,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,5
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0023,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0024,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0025,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0026,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0027,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0028,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0029,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0031,Unknown,Unknown,morphology,NA,NA,NA,NA,NA,1
+McLane,J21403,20.7,2 mab,Within vents,12.57,80-150,Tow Cam,TN401_J21403_MC_0032,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,3
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0001,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,100,,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0002,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0003,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0004,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0005,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0006,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0007,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0009,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0012,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0013,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0014,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0015,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,25
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0017,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,45
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0019,Gastropod,Larval,CO1,Genus,Alviniconcha,Alviniconcha kojimai,100,VJ606,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0020,Gastropod,Larval,CO1,Genus,Alviniconcha,Alviniconcha kojimai,97.2,VJ153,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0022,Gastropod,Larval,CO1,Genus,Symmetromphalus,Symmetromphalus,100,VJ87,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0024,Gastropod,Larval,CO1,Genus,Alviniconcha,Alviniconcha kojimai,99.7,VJ117,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0025,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0026,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0027,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,28
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0028,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0029,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,5
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0030,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0031,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0032,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0033,Gastropod,Larval,CO1,Order,Neomphalida,Pusia granum,75,VJ18,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0034,Gastropod,Larval,CO1,Genus,Alviniconcha,Alviniconcha kojimai,97.3,VJ633,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0035,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0036,Gastropod,Larval,CO1,Order,Neomphalida,Pusia granum,76.5,VJ80,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0037,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0038,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0039,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0040,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0041,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0042,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0043,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0044,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0045,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0046,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0047,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0048,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0049,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0050,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0051,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,4
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0052,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0053,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0054,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0055,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0056,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0057,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0058,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0059,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0060,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,7
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0061,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0062,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0063,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0064,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0065,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0066,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0067,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+McLane,J21404,30.5,2 mab,Within vents,18.64,12-23,Tahi Moana,TN401_J21404_MC_0068,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,4
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,23
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0001,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0003,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0005,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,5
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,4
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0007,Unknown,Unknown,morphology,NA,NA,NA,NA,NA,1
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0008,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,3
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0009,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0010,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,2
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0013,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0014,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,4
+McLane,J21405,30.9,2 mab,Within vents,18.76,8-15,ABE,TN401_J21405_MC_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0002,Gastropod,Larval,CO1,Order,Neomphalida,Pusia granum,76.6,VJ251,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0003,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0004,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,100,TL,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0005,Bivalve,Larval,intFXT/HCO2198,Family,Vesicomyidae,Neaeromya rugifera,85.7,TL,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0006,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,4
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0007,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,8
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0009,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea ,93.9,TL,3
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_01,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_02,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_03,Gastropod,Larval,CO1,Order,Neomphalida,Pusia granum,76.1,VJ243,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_04,Gastropod,Larval,CO1,Order,Neomphalida,Tridentarius dentatus,74.6,VJ595,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_05,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_06,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_07,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_08,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_09,Gastropod,Larval,morphology,Family,Neoleptopsidae,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_10,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_11,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ596,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_12,Gastropod,Larval,CO1,Order,Neomphalida,Georissa,80.4,VJ255,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_13,Gastropod,Larval,CO1,Genus,Lamellomphallus,Lamellomphallus manusensis,100,VJ256,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_14,Gastropod,Larval,CO1,Order,Neomphalida,Mitrella scripta,77.3,VJ257,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_15,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_16,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.8,VJ258,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_17,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kenzelbachi,76.4,VJ259,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_18,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ260,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_19,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_20,Gastropod,Larval,CO1,Order,Neomphalida,Pusia granum,76.3,VJ262,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_21,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.8,VJ263,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_22,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ254,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_23,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.8,VJ265,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_24,Gastropod,Larval,CO1,Order,Neomphalida,Turbo cornutus,76.6,VJ266,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_25,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ267,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_26,Gastropod,Larval,CO1,Genus,Symmetromphalus,Symmetromphalus,99.8,VJ268,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0011_27,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0014,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,3
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0015,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0016,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0017,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,100,TL,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0018_01,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.5,VJ432,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0018_02,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ433,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0018_03,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ434,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0019,Gastropod,Juvenile,morphology,Genus,Shinkailepas,NA,NA,NA,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0020_01,Gastropod,Juvenile,CO1,Genus,Alviniconcha ,Alviniconcha boucheti,99.5,VJ212,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0020_02,Gastropod,Juvenile,cO1,Genus,Alviniconcha ,Alviniconcha strummeri,99.8,VJ469,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0020_03,Gastropod,Juvenile,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,91.7,VJ213,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0020_04,Gastropod,Juvenile,CO1,Family,Elachisinidae,Laeviphitus,88.3,VJ239,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0021,Gastropod,Adult,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,96,VJ173,1
+McLane,J21407,28.644,2 mab,Within vents,17.43,0,Tui Malila,TN401_J21407_MC_0022,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0002,Unknown,Unknown,morphology,NA,NA,NA,NA,NA,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0004_01,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ274,3
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0006,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,3
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0007,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,5
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0008_01,Gastropod,Larval,morphology,Genus,Bruceiella,Bruceiella ,NA,NA,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0008_02,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ222,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,9
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0011,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0012,Gastropod,Juvenile,morphology,Genus,Shinkailepas,NA,NA,NA,3
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0013,Gastropod,Juvenile,CO1,Genus,Bruceiella,Bruceiella globulus,99.8,VJ94,1
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0014_01,Gastropod,Juvenile,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,97.7,VJ192,2
+McLane,J21408,26.9994,2 mab,Within vents,16.38,0,Mariner,TN401_J21408_MC_0014_02,Gastropod,Juvenile,CO1,Genus,Alviniconcha ,Alviniconcha boucheti,100,VJ193,2
+McLane,J21409,19.4,2 mab,Within vents,11.82,23-54,Kilo Moana,TN401_J21409_MC_0001,Bivalve,Larval,intFXT/HCO2198,Class,Bivalvia,Xyloredo sp.,81.5,TL,1
+McLane,J21409,19.4,2 mab,Within vents,11.82,23-54,Kilo Moana,TN401_J21409_MC_0002,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21409,19.4,2 mab,Within vents,11.82,23-54,Kilo Moana,TN401_J21409_MC_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21409,19.4,2 mab,Within vents,11.82,23-54,Kilo Moana,TN401_J21409_MC_0007,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,6
+McLane,J21409,19.4,2 mab,Within vents,11.82,23-54,Kilo Moana,TN401_J21409_MC_0009,Gastropod,Juvenile,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,97.8,VJ615,1
+Larval Trap,J21410,NA,1,,351.52,23-54,Kilo Moana,TN401_J21410_LT1T3_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21410,NA,1,,351.52,23-54,Kilo Moana,TN401_J21410_LT1T4_0001,Unknown,Unknown,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21410,NA,1,,327.35,23-54,Kilo Moana,TN401_J21410_LT2T2_0004,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21410,NA,1,,327.35,23-54,Kilo Moana,TN401_J21410_LT2T2_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21410,NA,1,,327.35,23-54,Kilo Moana,TN401_J21410_LT2T3_0002,Bivalve,Larval,morphology,Family,Lasaeidae,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.86,80-150,Tow Cam,TN401_J21412_LT3T1_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.86,80-150,Tow Cam,TN401_J21412_LT3T2_0001,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.86,80-150,Tow Cam,TN401_J21412_LT3T2_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.86,80-150,Tow Cam,TN401_J21412_LT3T2_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.38,80-150,Tow Cam,TN401_J21412_LT4T3_0003,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.38,80-150,Tow Cam,TN401_J21412_LT4T3_0004,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.38,80-150,Tow Cam,TN401_J21412_LT4T4_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.38,80-150,Tow Cam,TN401_J21412_LT4T4_0002,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.38,80-150,Tow Cam,TN401_J21412_LT4T4_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21412,NA,1,,352.38,80-150,Tow Cam,TN401_J21412_LT4T4_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21412,18.2,2 mab,Within vents,11,80-150,Tow Cam,TN401_J21412_MC_001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+McLane,J21412,18.2,2 mab,Within vents,11,80-150,Tow Cam,TN401_J21412_MC_003,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea ,88,TL,1
+McLane,J21412,18.2,2 mab,Within vents,11,80-150,Tow Cam,TN401_J21412_MC_004,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21412,18.2,2 mab,Within vents,11,80-150,Tow Cam,TN401_J21412_MC_005,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,4
+McLane,J21412,18.2,2 mab,Within vents,11,80-150,Tow Cam,TN401_J21412_MC_006,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21412,18.2,2 mab,Within vents,11,80-150,Tow Cam,TN401_J21412_MC_008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,5
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T1_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T1_0009,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.9,TL,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T1_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T1_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T2_0001,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T2_0002,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T2_0003,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T2_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T2_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T2_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T4_0001,Gastropod,Larval,morphology,Genus,Alviniconcha ,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T4_0002,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.28,12-23,Tahi Moana,TN401_J21413_LT5T4_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T1_0001,Gastropod,Larval,morphology,Family,Peltospiridae,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T1_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T1_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0012,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0013,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T2_0014,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T3_0004,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T3_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T3_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T3_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T4_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T4_0002,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T4_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T4_0004,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T4_0005,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21413,NA,1,,340.23,12-23,Tahi Moana,TN401_J21413_LT6T4_0006,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_002,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_003,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_004,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,8
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_007,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,4
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,4
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_011,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,2
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_013,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,11
+McLane,J21413,18.9,2 mab,Within vents,11.45,12-23,Tahi Moana,TN401_J21413_MC_014,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,10
+Larval Trap,J21414,NA,1,,328.04,8-15,ABE,TN401_J21414_LT8T4_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21414,11.5,2 mab,Within vents,7.29,8-15,ABE,TN401_J21414_MC_001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,4
+McLane,J21414,11.5,2 mab,Within vents,7.29,8-15,ABE,TN401_J21414_MC_002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21414,11.5,2 mab,Within vents,7.29,8-15,ABE,TN401_J21414_MC_003,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,19
+McLane,J21414,11.5,2 mab,Within vents,7.29,8-15,ABE,TN401_J21414_MC_004,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,6
+McLane,J21414,11.5,2 mab,Within vents,7.29,8-15,ABE,TN401_J21414_MC_007,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,6
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T1_0003,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T1_0004,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,95.7,VJ240,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T1_0005,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,Tn401_J21415_LT10T1_0006,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,95.7,VJ241,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T1_0007,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T2_0001,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T2_0002,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T2_0003,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T2_0004,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T2_0005,Unknown ,Unknown,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T4_0001,Gastropod,Larval,Morphology,Genus,Alviniconcha ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T4_0002,Gastropod,Larval,Morphology,Genus,Alviniconcha ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T4_0003,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T4_0004,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T4_0005,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,334.65,0,Tui Malila,TN401_J21415_LT10T4_0009,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT90T3_0008,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,99.7,TL,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT90T3_0009,Gastropod,Larval,CO1,Genus,Lamellomphallus ,Lamellomphallus manusensis,100,VJ252,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T1_0001,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,100,VJ93,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T1_0002,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.7,VJ106,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T2_0002,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T2_0006,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T2_0007,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T3_0010,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,93,VJ242,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T3_0012,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0001,Bivalve,Juvenile,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0002,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0003,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0005,Zoea,Larval,morphology,Order,Decapoda,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0006,Gastropod,Larval,morphology,Genus,Alviniconcha ,NA,NA,NA,1
+Larval Trap,J21415,NA,1,,333.55,0,Tui Malila,TN401_J21415_LT9T4_0007,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0001,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0003,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+McLane,J21416,20,2 mab,Within vents,12,0,Mata To'lu,TN401_J21416_MC_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0009,Gastropod,Larval,CO1,Genus,Mitrella,Mitrella,99.1,VJ38,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0010,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0013,Bivalve,Larval,Morphology,Family,Vesicomyidae,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0014,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0015,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0015,Unknown,Unknown,morphology,NA,NA,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0017,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S628P,560,8,Above vents,6.8,23-54,Kilo Moana,TN401_S628P_0018,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0001,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0002,Bivalve,Larval,intFXT/HCO2198,Family,Lasaeidae,Kellia suborbicularis,84.4,TL,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0004,Bivalve,Larval,morphology,Family,Myidae,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0005,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kinzelbachi,76.1,VJ11,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0007,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kinzelbachi,75.9,VJ12,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0008,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0010,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0012,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0013,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0014,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0015,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0017,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S628S,1784,36,Vent periphery,9.02,23-54,Kilo Moana,TN401_S628S_0018,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0001,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0002,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0003,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0004,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0005,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea sp.,89.9,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0006,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea alayseae,89.3,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0007,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.1,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0008,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,94.1,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0009,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.7,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0010,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea hourdezi,89,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0011,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.5,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0012,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.2,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0013,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,90.1,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0014,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.5,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0015,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,2
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0016,Zoea,Larval,intFXT/HCO2198,Genus,Chorocaris ,Chorocaris ,100,TL,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0017,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,100,VJ101,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0018,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.8,VJ79,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0019,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,96.7,VJ230,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0021,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0023,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,4
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0024,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.8,VJ188,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0025,Gastropod,Larval,morphology,Genus,Alviniconcha ,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0026,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0027,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0029,Bivalve,Larval,morphology,Family,Galeommatoidae,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0031,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0032,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0033,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0034,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S629P,376,8,Above vents,9.58,80-150,Tow Cam,TN401_S629P_0035,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,11
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0004,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0006,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0007,Gastropod,Juvenile,CO1,Genus,Shinkailepas,Shinkailepas tufari,92.7,VJ249,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0008,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.9,VJ149,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0012,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0014,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0015,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0017,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0018,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,5
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0019,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0022,Gastropod,Juvenile ,morphology,Genus,Shinkailepas,NA,NA,NA,1
+SyPRID - vent periphery,S629S,1790,40,Vent periphery,8.43,80-150,Tow Cam,TN401_S629S_0XX,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0004,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,8
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0012,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0013,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0014,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0015,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0016,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.7,VJ626,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0017,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0018,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0019,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0020,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0023,Gastropod,Larval,morphology,Genus,Alviniconcha ,NA,NA,NA,1
+SyPRID - above vents,S630P,1272,30,Above vents,9.13,12-23,Tahi Moana,TN401_S630P_0024,Parenchymula,Larval,morphology,Phylum,Porifera,NA,NA,NA,1
+SyPRID - vent periphery,S630S,1866,45,Vent periphery,7.5,12-23,Tahi Moana,TN401_S630S_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S630S,1866,45,Vent periphery,7.5,12-23,Tahi Moana,TN401_S630S_0002,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S630S,1866,45,Vent periphery,7.5,12-23,Tahi Moana,TN401_S630S_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S630S,1866,45,Vent periphery,7.5,12-23,Tahi Moana,TN401_S630S_0006,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0001,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0002,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0004,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0005,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0008,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0011,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0012,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0013,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0017,Bivalve,Larval,intFXT/HCO2198,Family,Vesicomyidae,Vesicomyid,84.7,TL,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0018,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0020,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0021_07,Gastropod,Larval,CO1,Genus,Cerithium ,Cerithium placidum,98.7,VJ228,1
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0022,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,2
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0023,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,6
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0024,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,20
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0025,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,22
+SyPRID - above vents,S631P,1792,10-20,Above vents,10.17,8-15,ABE,TN401_S631P_0026,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,6
+SyPRID - vent periphery,S631S,1854,45,Vent periphery,7.43,8-15,ABE,TN401_S631S_0001,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S631S,1854,45,Vent periphery,7.43,8-15,ABE,TN401_S631S_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S631S,1854,45,Vent periphery,7.43,8-15,ABE,TN401_S631S_0006,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.5,TL,3
+SyPRID - vent periphery,S631S,1854,45,Vent periphery,7.43,8-15,ABE,TN401_S631S_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0002,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kinzelbachi,77,VJ27,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0003,Bivalve,Larval,intFXT/HCO2198,Family,Thyasiridae,Parathyasira equalis,86.6,TL,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0004,Bivalve,Larval,morphology,Genus,Bathymodiolus,Bathymodiolus,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0005,Gastropod,Larval,CO1,Genus,Lamellomphallus ,Lamellomphallus manusensis,99.6,VJ198,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0006,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.8,TL,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0007,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ250,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0008,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,100,TL,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0009,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0010,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0014,Gastropod,Juvenile ,morphology,Genus,Shinkailepas,NA,NA,NA,2
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_01,Gastropod,Larval,morphology,Genus,Desbruyeresia,NA,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_02,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_03,Gastropod,Larval,morphology,Genus,Desbruyeresia,NA,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_04,Gastropod,Larval,morphology,Genus,Desbruyeresia,NA,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_05,Gastropod,Larval,morphology,Genus,Desbruyeresia,NA,NA,NA,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_06,Gastropod,Larval,CO1,Genus,Desbruyeresia ,Desbruyeresia melanoides,98.7,VJ160,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_07,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,100,VJ100,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0015_08,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha strummeri,94.9,VJ84,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0016,Gastropod,Juvenile ,CO1,Genus,Bruceiella,Bruceiella globulus,98.4,VJ446,1
+SyPRID - above vents,S632P,1976.604,15,Above vents,8.9,0,Tui Malila,TN401_S632P_0017,Gastropod,Juvenile ,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0001,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0002,Bivalve,Larval,intFXT/HCO2198,Family,Lasaeidae,Lepton squamosum,82.3,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0003,Bivalve,Larval,intFXT/HCO2198,Family,Lasaeidae,Neaeromya rugifera,83.6,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0004,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0005,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.3,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0006,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0007,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0008,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0010,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0012,Bivalve,Larval,intFXT/HCO2198,Family,Myidae,Xylophaga atlantica,80.2,TL,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0014,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.8,VJ78,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0015,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0017,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,6
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0018,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,3
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0020_01,Gastropod,Larval,morphology,Family,Peltospiridae,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0020_02,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.8,VJ428,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0020_03,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.4,VJ429,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0020_04,Gastropod,Larval,CO1,Genus,Lamellomphallus,Lamellomphallus manusensis,100,VJ430,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0020_05,Gastropod,Larval,CO1,Genus,Lamellomphallus,Lamellomphallus manusensis,99.8,VJ431,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0022,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_01,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.6,VJ88,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_02,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kinzelbachi,76.6,VJ85,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_03,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_04,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_05,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kinzelbachi,76.5,VJ86,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_06,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S632S,1789.25,45,Vent periphery,7.62,0,Tui Malila,TN401_S632S_0023_07,Gastropod,Larval,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.5,VJ238,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0001,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0002,Gastropod,Larval,morphology,Genus,Alviniconcha ,NA,NA,NA,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0004,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0006,Bivalve,Larval,morphology,Family,Vesicomyidae,NA,NA,NA,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0009_04,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0010,Bivalve,Larval,morphology,Family,Myidae,NA,NA,NA,2
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0012_01,Gastropod,Larval,CO1,Superfamily,Buccinoidea,Vitreolina aurata,83,VJ461,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0012_02,Gastropod,Larval,CO1,Genus,Bruceiella,Bruceiella globulus,99.7,VJ613,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0013,Gastropod,Larval,CO1,Family,Elachisinidae,Laeviphitus,88.5,VJ229,1
+SyPRID - above vents,S633P,1818.679,15,Above vents,8.05,0,Mariner,TN401_S633P_0014,Gastropod,Larval,CO1,Genus,Bruceiella,Bruceiella globulus,99.5,VJ96,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0001,Gastropod,Larval,CO1,Order,Neomphalida,Iurus kinzelbachi,76,VJ611,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0002,Bivalve,Larval,morphology,Family,Vesicomyidae,NA,NA,NA,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0003,Bivalve,Larval,intFXT/HCO2198,Family,Myidae,Euheterodonta sp.,76,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0004,Bivalve,Larval,intFXT/HCO2198,Family,Myidae,Euheterodonta sp.,76.2,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,12
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0007_01,Gastropod,Larval,CO1,Genus,Bruceiella,Bruceiella globulus,99.7,VJ275,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0007_02,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.9,VJ276,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0007_03,Gastropod,Larval,CO1,Order,Neomphalida,Cyclophorus cucphuongensis,77.7,VJ277,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0009,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,4
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0011_01,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0011_02,Gastropod,Larval,CO1,Genus,Lamellomphallus,Lamellomphallus manusensis,100,VJ223,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0011_03,Gastropod,Larval,CO1,Genus,Mitrella,Mitrella moleculina,81.7,VJ224,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0011_05,Gastropod,Larval,CO1,Genus,Bruceiella,Bruceiella globulus,99.8,VJ225,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0011_06,Gastropod,Larval,CO1,Genus,Bruceiella,Bruceiella globulus,99.8,VJ220,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0013,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0014,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.8,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0015,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0016,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0017,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0018,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0019,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0020,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0021,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.5,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0022,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0023,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0024,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0025,Bivalve,Larval,morphology,Genus,Bathymodiolus,NA,NA,NA,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0026_01,Gastropod,Juvenile ,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,99.2,VJ209,1
+SyPRID - vent periphery,S633S,1784.825,45,Vent periphery,8.12,0,Mariner,TN401_S633S_0026_02,Gastropod,Juvenile ,CO1,Genus,Alviniconcha ,Alviniconcha kojimai,98.4,VJ191,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0001,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0002,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0004,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,99.7,TL,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0005,Bivalve,Larval,intFXT/HCO2198,Family,Pectinidae,Delectopecten sp.,77,TL,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0006,Bivalve,Larval,intFXT/HCO2198,Family,Pectinidae,Delectopecten sp.,76.8,TL,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_0011,Gastropod,Larval,morphology,Genus,Shinkailepas,NA,NA,NA,1
+SyPRID - above vents,S634P,1824,8,Above vents,6.52,23-54,Kilo Moana,TN401_S634P_007_01,Gastropod,Larval,CO1,Order,Neomphalida,Gastropoda,75.3,VJ647,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0001,Gastropod,Larval,CO1,Order,Neomphalida,Pusia granum,76.1,VJ31,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0002,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0003,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0004,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0006,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,98,TL,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0007,Bivalve,Larval,intFXT/HCO2198,Family,Lasaeidae,Basterotia sp.,86.9,TL,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0008,Bivalve,Larval,morphology,Family,Myidae,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0011_01,Gastropod,Larval,Morphology,Genus,Alviniconcha ,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0011_01,Gastropod,Larval,morphology,Genus,Alviniconcha ,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0012_01,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - vent periphery,S634S,3619,26,Vent periphery,11.15,23-54,Kilo Moana,TN401_S634S_0012_02,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,100,VJ199,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0001,Actinula,Larval,morphology,Order,Actinulida,NA,NA,NA,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0003,Bivalve,Larval,intFXT/HCO2198,Family,Lasaeidae,Basterotia sp.,85.6,TL,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0004,Zoea,Larval,intFXT/HCO2198,Genus,Chorocaris ,Chorocaris sp.,100,TL,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0006_01,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0006_03,Gastropod,Larval,CO1,Family,Peltospiridae,Peltospiridae,99.8,VJ200,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0008,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,30
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,9
+SyPRID - above vents,S635P,1803,8,Above vents,9.67,80-150,Tow Cam,TN401_S635P_0012,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,15
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0001,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0002,Bivalve,Larval,intFXT/HCO2198,Order,Nuculanida,Yoldia notabilis,78.7,TL,1
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0004_01,Gastropod,Larval,morphology,Family,Peltospiridae,NA,NA,NA,1
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0005,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,13
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S635S,1803,40,Vent periphery,6.28,80-150,Tow Cam,TN401_S635S_0010,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0001,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0002_01,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0003,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,7
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0004,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0005,Zoea,Larval,intFXT/HCO2198,Genus,Austinograea,Austinograea williamsi,93.8,TL,2
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0009,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,10
+SyPRID - above vents,S636P,1809,30,Above vents,7.12,12-23,Tahi Moana,TN401_S636P_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,8
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0003,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0004,Nauplius,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0005,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,5
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,17
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0008,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,14
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0009,Trochophore,Larval,morphology,NA,NA,NA,NA,NA,1
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0012,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,5
+SyPRID - vent periphery,S636S,1796,45,Vent periphery,7,12-23,Tahi Moana,TN401_S636S_0013,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,7
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0001,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0002,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0003,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0004,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0005,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0006,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus manusensis,100,TL,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0007,Bivalve,Larval,intFXT/HCO2198,Genus,Bathymodiolus,Bathymodiolus septemdierum,100,TL,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0008,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0011,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0012,Bivalve,Larval,morphology,Family,Thyasiridae,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0014,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0015,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,122
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0016,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0017,Gastropod,Larval,CO1,Genus,Thermosipho,Thermosipho desbruyeresia,99.7,VJ30,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0018,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,14
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0019,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,7
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0021,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0022_01,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0023,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,2
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0024,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,4
+SyPRID - above vents,S637P,1812,10-20,Above vents,6.73,8-15,ABE,TN401_S637P_0026,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0001,Bivalve,Larval,intFXT/HCO2198,Family,Lasaeidae,Tellimya ferruginosa,83.5,TL,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0002,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0004,Gastropod,Larval,morphology,Family,Raphitomidae,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0005,Ophiuroid,Larval,morphology,Class,Ophiuroidea,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0006,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0007,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,7
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0008,Cyprid,Larval,morphology,Subclass,Cirripedia,NA,NA,NA,3
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0010,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0011,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0012,Nectochaete,Larval,morphology,Class,Polychaeta,NA,NA,NA,7
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0014_01,Gastropod,Larval,morphology,Order,Neomphalida,NA,NA,NA,1
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0015,Zoea,Larval,morphology,Genus,Austinograea,NA,NA,NA,25
+SyPRID - vent periphery,S637S,1773,45,Vent periphery,9.25,8-15,ABE,TN401_S637S_0016,Gastropod,Larval,morphology,Class,Gastropoda ,NA,NA,NA,6
