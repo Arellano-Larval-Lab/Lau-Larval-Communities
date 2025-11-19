@@ -53,6 +53,8 @@ data <- data %>%
     larvae.30m3 = as.numeric(larvae.30m3)
   )
 
+data <- data %>%
+  mutate(sqrt.transformed = sqrt(larvae.30m3))
 str(data)
 
 #--------------------------------------------------------------
@@ -67,27 +69,47 @@ data.wide <- reshape(data = data.wide,
 data.wide[is.na(data.wide)] <- 0
 str(data.wide)
 
-
+data.wide.sqrt <- data %>%
+  aggregate(sqrt.transformed ~ Larval.Type +RecoveryDive + Site + SampleLocation + Ash.depth..cm., sum)
+data.wide.sqrt <- reshape(data = data.wide.sqrt,
+                     timevar = 'Larval.Type',
+                     idvar = c('RecoveryDive', 'Site', 'SampleLocation', 'Ash.depth..cm.'),
+                     direction = 'wide')
+data.wide.sqrt[is.na(data.wide.sqrt)] <- 0
+str(data.wide)
 #----------------------------------------------------------------
 # 4. Ordination & PERMANOVA
 #----------------------------------------------------------------
 # Bray-Curtis distance
-bray_mero <- vegdist(data.wide[, 6:ncol(data.wide)], method = "bray")
+bray_mero <- vegdist(data.wide[, 5:ncol(data.wide)], method = "bray")
 
-# PERMANOVAs: test effect of Site, SampleLocation, Ash depth
+bray_mero.sqrt <- vegdist(data.wide.sqrt[, 5:ncol(data.wide.sqrt)], method = "bray")
+
+# PERMANOVA Site * SampleLocation
 set.seed(127)
-perm_Site.SampleLocation <- adonis2(data.wide[, 6:ncol(data.wide)] ~ Site * SampleLocation, data = data.wide, method = "bray", permutations = 999)
+perm_Site.SampleLocation <- adonis2(data.wide[, 5:ncol(data.wide)] ~ Site * SampleLocation, data = data.wide, method = "bray", permutations = 999)
 print(perm_Site.SampleLocation)
 # Site p = 0.016 *
 # SampleLocation p = 0.001 ***
 # Site:SampleLocatoion p = 0.261
 
-perm_Ash.SampleLocation <- adonis2(data.wide[, 6:ncol(data.wide)] ~ Ash.depth..cm. * SampleLocation, data = data.wide, method = "bray", permutations = 999)
+# PERMANOVA Site * SampleLocation on sqrt transford 
+perm_Site.SampleLocation.sqrt <- adonis2(data.wide.sqrt[, 5:ncol(data.wide.sqrt)] ~ Site * SampleLocation, data = data.wide.sqrt, method = "bray", permutations = 999)
+print(perm_Site.SampleLocation.sqrt)
+# Same as above
+
+# PERMANOVA Ash * SampleLocation
+perm_Ash.SampleLocation <- adonis2(data.wide[, 5:ncol(data.wide)] ~ Ash.depth..cm. * SampleLocation, data = data.wide, method = "bray", permutations = 999)
 print(perm_Ash.SampleLocation)
 # Ash depth p = 0.006 **
 # SampleLocation p = 0.001***
-# Ash depth : SampleLocation p = 0.075
+# Ash depth : SampleLocation p = 0.043
 
+# PERMANOVA Ash * SampleLocation on sqrt transformed 
+perm_Ash.SampleLocation.sqrt <- adonis2(data.wide.sqrt[, 5:ncol(data.wide.sqrt)] ~ Ash.depth..cm. * SampleLocation, data = data.wide.sqrt, method = "bray", permutations = 999)
+print(perm_Ash.SampleLocation.sqrt)
+
+# PERMANOVA Ash * Site 
 perm_Ash.Site<- adonis2(data.wide[, 6:ncol(data.wide)] ~ Ash.depth..cm. * Site, data = data.wide, method = "bray", permutations = 999)
 print(perm_Ash.Site)
 # Ash depth p = 0.268
